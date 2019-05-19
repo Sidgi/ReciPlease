@@ -2,8 +2,13 @@
 
 ## Project Name: ReciPlease
 
-## Deployed at 
+## Deployed at: 
    * http://recipes-sidgi.surge.sh/
+   * front end was deployed on surge and backend was deployed on heroku.
+
+## Reference to original repo:
+    
+    * https://github.com/shenae/ReciPlease
 
 ## Project Overview
 This is the third project assignment for General Assembly's Software Engineering Immersive program. This is a group assignment with the following members on the team: 
